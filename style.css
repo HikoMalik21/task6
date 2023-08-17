@@ -1,0 +1,116 @@
+section{
+    display: block;font-family:'Montserrat', sans-serif;
+}
+main{
+    width: 65%;
+    max-width: 1000px;
+    min-width: 430px;
+    margin: auto;
+}
+
+table{
+    width: 800px;
+    height: 400px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+h1{
+    font-weight: 900;
+    display: block;
+    padding-left: 270px;
+    
+}
+
+tr{
+    display: table-row;
+    border-color: inherit;
+    vertical-align: inherit;
+    background-color: #f0fff8;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+.box {
+    width: 800px;
+    height: 250px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+}
+div.Box2 {
+    width: 800px;
+    height: 100px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+
+div.Box3{
+    width: 800px;
+    height: 130px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+div.Box4{
+    width: 800px;
+    height: 100px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+ul{
+    width: 800px;
+    height: 750px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+
+.box5{
+    width: 800px;
+    height: 210px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
+.box6{
+    width: 800px;
+    height: 330px;
+    box-sizing: border-box;
+    background-color: #f0fff8;
+    padding: 30px;
+    border: 1px solid #80ced6;
+    border-radius: 0px;
+    margin: auto;
+
+}
