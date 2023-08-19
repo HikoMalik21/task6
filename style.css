@@ -27,9 +27,6 @@ h1{
 }
 
 tr{
-    display: table-row;
-    border-color: inherit;
-    vertical-align: inherit;
     background-color: #f0fff8;
 }
 table{
@@ -43,7 +40,7 @@ table{
     background-color: #f0fff8;
     padding: 30px;
     border: 1px solid #80ced6;
-    border-radius: 0px;
+    border-radius: 10px;
     margin: auto;
 }
 div.Box2 {
